@@ -22,4 +22,6 @@
    19. Attention!
    20. Transformers
    21. Knowledge check
+??? Optimizators
+??? LR-schedulers 
 
