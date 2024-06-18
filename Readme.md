@@ -13,5 +13,13 @@
    10. Error analysis
    11. Neural Networks: what is it and what is eaten with? Can neural networks think
    12. Perceptron, fully connected NN
-   13. CNN
+   13. Classification images. CNN. ResNet, MobileNet, Inception
+   14. Segmentation. FCNN. Unet-like
+   15. Detection. Two-stage detectors and one-stage detectors
+   16. Knowledge check
+   17. Error analysis
+   18. YOLO
+   19. Attention!
+   20. Transformers
+   21. Knowledge check
 
