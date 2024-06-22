@@ -5,8 +5,8 @@
    2. Вспоминаем математику (или узнаем)
    3. Задачи в ML. Данные: какие бывают, кто виновнат и что делать?
    4. KNN, naive bias
-   5. Linear regression
-   6. Logistic regression, L1 and L2 regularization
+   5. Linear regression, L1 and L2 regularization
+   6. Logistic regression, Maximum Likelihood method
    7. Trees, RF, GB
    8. SVM and PCA
    9. Knowledge check
