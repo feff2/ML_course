@@ -23,5 +23,5 @@
    20. Transformers
    21. Knowledge check
 ??? Optimizators
-??? LR-schedulers 
+??? LR-schedulers
 
