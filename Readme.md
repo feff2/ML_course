@@ -20,9 +20,10 @@
    17. Knowledge check
    18. Error analysis
    19. YOLO
-   20. Attention!
-   21. Transformers
-   22. Knowledge check
+   20. CRNN
+   21. Attention!
+   22. Transformers
+   23. Knowledge check
 ??? Optimizators
 ??? LR-schedulers
 
