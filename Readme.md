@@ -27,3 +27,7 @@
 ??? Optimizators
 ??? LR-schedulers
 
+ИСТОЧНИКИ: 
+- Хендбук по ML от Яндекса: https://education.yandex.ru/handbook/ml
+- Лекции от МФТИ по ML: https://www.youtube.com/playlist?list=PL4_hYwCyhAvZyW6qS58x4uElZgAkMVUvj
+- Тренировки по ML от Яндекса: https://www.youtube.com/playlist?list=PLXtiZNKIobF5wGW0ExSn47db1I8uYnfIC
